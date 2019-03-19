@@ -1,4 +1,4 @@
-# Frogger Game ++
+# Frogger Game
 
 ## Disclaimer
 The project starter code provide by Udacity front-end nanodgree course.
